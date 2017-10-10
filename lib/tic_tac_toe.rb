@@ -79,3 +79,5 @@ class TicTacToe
   end
 end
 =end
+class TicTacToe
+end
