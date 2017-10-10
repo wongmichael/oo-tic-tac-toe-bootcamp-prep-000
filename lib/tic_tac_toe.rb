@@ -1,4 +1,3 @@
-=begin
 class TicTacToe
   def initialize
     @board=Array.new(9," ")
@@ -77,7 +76,4 @@ class TicTacToe
       puts "Cat's Game!"
     end
   end
-end
-=end
-class TicTacToe
 end
